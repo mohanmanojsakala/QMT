@@ -1,0 +1,43 @@
+1 BVA & ECP
+
+1) c
+2) 1) d
+    2) a
+3) c
+4) c
+5) 1) c
+    2) d
+6) c
+7) c
+8) b
+
+2 MCCABE’S CYCLOMATIC COMPLEXITY
+
+1) a
+2) a
+3) b
+
+3 CODE COVERAGE
+
+1)
+2) b
+3)
+4)
+5) 1) c
+    2) 
+6)
+7)
+8)
+9)
+
+4 STATE TRANSITION TESTING
+
+1) a
+2) b
+3) 1) new ready running exit, new ready running ready running exit, new ready running blocker ready running exit
+    2) new ready exit,new ready ready blocked,new ready running blocked exit
+
+5 DECISION TABLE TEST
+
+1) A) Transfer money
+    B) Block transaction incase of susp
